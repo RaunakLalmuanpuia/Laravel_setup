@@ -42,5 +42,15 @@ A modern and powerful Laravel starter template featuring:
     npm run build
 
 
+---
 
+## 📦 More Useful Packages
+
+### 1. Install Laravel API/Sanctum
+    php artisan install:api
+
+### 2. Install Laravel Spatie-Roles and Permissions
+     composer require spatie/laravel-permission
+
+---
 
